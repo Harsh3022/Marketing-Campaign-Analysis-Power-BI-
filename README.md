@@ -1,4 +1,4 @@
-# Marketing-Campaign-Analysis-Power-BI-
+# Marketing-Campaign-Analysis-Power-BI
 I developed the Marketing Campaign Analysis Dashboard using Power BI to help businesses understand the effectiveness of their marketing strategies through data-driven insights. The project’s main goal was to analyze the performance of multiple marketing campaigns, measure conversion rates, track customer engagement, and calculate return on investment (ROI) to support smarter marketing decisions.
 
 The dashboard consolidates campaign data from various sources, including email, social media, and digital ads, into a single, interactive interface. It provides a complete view of campaign performance using key metrics such as total leads generated, conversion rate, cost per acquisition (CPA), total campaign cost, and revenue generated.
